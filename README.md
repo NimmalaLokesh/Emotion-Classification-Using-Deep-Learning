@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/Deep%20Learning-TensorFlow-orange?logo=tensorflow" />
   <img src="https://img.shields.io/badge/Framework-Streamlit-red?logo=streamlit" />
   <img src="https://img.shields.io/badge/Database-SQLite-blue" />
-  <img src="https://img.shields.io/badge/Status-Academic%20Project-success" />
 </p>
 
 ---
