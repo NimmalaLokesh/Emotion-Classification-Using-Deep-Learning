@@ -1,0 +1,39 @@
+# Virtual environments (usually 1GB+ with TensorFlow/OpenCV)
+.venv/
+venv/
+env/
+ENV/
+
+# Large datasets & archives (must never be pushed to Git)
+data/
+*.zip
+*.tar.gz
+*.rar
+*.csv
+*.wav
+*.mp3
+*.ogg
+*.flac
+
+# Local SQLite database (contains user credentials)
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# IDE & OS metadata
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment variables & Streamlit secrets
+.env
+.streamlit/secrets.toml
