@@ -1,4 +1,4 @@
-# Emotion Classification Using Deep Learning — Streamlit
+# Emotion Classification Using Deep Learning :
 
 This Streamlit application follows the project described in the supplied PPT:
 - Audio emotion classification with MFCC features and a CNN-LSTM model.
